@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Mario Project",
+"dataUrl": "My Mario Game.data.unityweb",
+"asmCodeUrl": "My Mario Game.asm.code.unityweb",
+"asmMemoryUrl": "My Mario Game.asm.memory.unityweb",
+"asmFrameworkUrl": "My Mario Game.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#BFBFBF"
+}
